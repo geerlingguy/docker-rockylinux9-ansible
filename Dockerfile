@@ -1,4 +1,4 @@
-FROM rockylinux/rockylinux:9
+FROM rockylinux:9
 LABEL maintainer="Jeff Geerling"
 ENV container=docker
 
